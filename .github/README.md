@@ -1,4 +1,4 @@
-# ARM ![](https://img.shields.io/badge/an_ARM_project-darkgreen) ![GitHub License](https://img.shields.io/github/license/armlang/arm) ![GitLab Issues](https://img.shields.io/gitlab/issues/all/armlang%2Farm) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/armlang/arm)
+# ARM ![](https://img.shields.io/badge/an_ARM_project-darkgreen) ![GitHub License](https://img.shields.io/github/license/armlang/arm) ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/armlang/arm)
 ARM is a free, open-source, basic programming language inspired by Python and C++. At it's core is an easy-to-modify interpreter that works with any 
 Bash (Linux / Mac OS X) or DOS system.
 
