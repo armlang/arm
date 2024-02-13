@@ -1,0 +1,1 @@
+ARM is a free, open-source, basic programming language inspired by Python and C++. At it's core is an easy-to-modify interpreter that works with any Bash or DOS system. ARM is able to support custom operating systems as well due to it's system compatability configure dotfile (.sc). If you would like to know more, visit the GitHub repository. https://github.com/armlang/arm
