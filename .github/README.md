@@ -4,8 +4,8 @@ Bash (Linux / Mac OS X) or DOS system.
 
 ## What does it look like?
 ```rs
-module c
-module import(thismodule.arm, MyModule)
+import c
+import "thismodule.arm" as MyModule
 
 /*
 import works as: import(file, reference). The reference is how you call functions from it.
